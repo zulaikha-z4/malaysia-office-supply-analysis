@@ -26,6 +26,11 @@ To identify trends in sales, profits, and returns across different regions, prod
 - `deskforward_data.xlsx` – Localized dataset
 - `dashboard-overview.png` – Dashboard preview image
 
-## 🔗 Live Dashboard & Portfolio
-- 🌐 [View Full Portfolio in Notion](INSERT_YOUR_NOTION_LINK_HERE)
-- 📊 [Interactive Power BI Dashboard](INSERT_PBI_EMBED_LINK_HERE)
+## 🔗 Portfolio & Dashboard
+
+- 📎 View Full Portfolio: [Notion Portfolio Link](INSERT_HERE)
+- 🖼️ Dashboard Preview:
+
+![Dashboard Screenshot](dashboard-overview.png)
+
+- 📂 Download Power BI file: [deskforward_dashboard.pbix](deskforward_dashboard.pbix)
